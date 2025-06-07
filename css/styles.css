@@ -273,6 +273,10 @@ a {
     font-size: 1.8rem;
 }
 
+.float-left,
+.fa-solid{
+    color: #828282;
+}
 
 .single-course-grid .text{
     padding: 20px;
@@ -335,10 +339,10 @@ a {
     margin:70px 0;
 }
 .course-pagination ul a{
-    border: 1px solid #ececec;
+    border: 1px solid #dddddd;
     padding: 5px 10px;
     border-radius: 5px;
-    color: #ececec;
+    color: #dddddd;
 }
 
 .course-pagination ul a.active,
