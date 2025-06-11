@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.course-content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.7;
+}
+
+.course-content h1 {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    color: #333;
+    text-align: center;
+    
+}
+
+.chapter h2 {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #ccc;
+    font-size: 2rem;
+    color: #b80257;
+    padding: 15px;
+}
+
+.chapter ul {
+    padding-left: 30px;
+}
+
+.chapter ul li {
+    margin-bottom: 8px;
+    font-size: 1.6rem;
+}
+
+.chapter ul li a {
+    text-decoration: none;
+    color: #333;
+}
